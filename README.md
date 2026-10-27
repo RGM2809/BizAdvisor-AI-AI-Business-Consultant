@@ -71,5 +71,4 @@ Application data is stored locally in SQLite under `data/`. Database files, virt
 
 Python, Streamlit, pandas, NumPy, SQLite, Plotly, scikit-learn, statsmodels, and pytest.
 
-# BizAdvisor-AI-AI-Business-Consultant
 
