@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BizAdvisor AI
 
 BizAdvisor AI is a local-first business analytics and consulting dashboard for small businesses. It uses sales and expense data to show business performance, forecast sales, and surface practical recommendations.
@@ -70,3 +71,6 @@ Application data is stored locally in SQLite under `data/`. Database files, virt
 ## Technology
 
 Python, Streamlit, pandas, NumPy, SQLite, Plotly, scikit-learn, statsmodels, and pytest.
+
+# BizAdvisor-AI-AI-Business-Consultant
+
