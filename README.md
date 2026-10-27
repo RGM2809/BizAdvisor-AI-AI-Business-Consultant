@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # BizAdvisor AI
 
 BizAdvisor AI is a local-first business analytics and consulting dashboard for small businesses. It uses sales and expense data to show business performance, forecast sales, and surface practical recommendations.
